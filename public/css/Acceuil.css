@@ -1,0 +1,26 @@
+@media (min-width: 992px) {
+    .navbar {
+        height:100px;
+    }
+    #softwareinventory{
+        font-size: 2rem;
+    }
+    #imglogo{
+        height: 98px;
+        width: 120px;
+    }
+}
+@media (max-width: 992px) {
+    #imglogo{
+        height: 75px;
+        width: 100px;
+    }
+    #softwareinventory{
+        font-size: 1rem;
+    }
+}
+
+.Ulitem{
+    font-size: 24px;
+    font-weight: bold;
+}
